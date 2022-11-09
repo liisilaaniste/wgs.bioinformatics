@@ -27,7 +27,7 @@ Hope you have fun!
 ```
 6. Variant allele frequency (VAF). What is the importance of VAF in cancer?
 
-7. **Variant interpretation**: What are considered pathogenic variants in cancer? How would you differentiate between driver and passenger mutations, and what tools would you use to assess this? 
+7. **Variant interpretation**: What are considered deleterious mutations in cancer? How would you differentiate between driver and passenger mutations, and what tools would you use to assess this? 
 
 8. **Complex features**: What are some of the tools and approaches you would use to characterise kataegis, chromoplexy and chromothripsis?
 
