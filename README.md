@@ -39,8 +39,9 @@ Hope you have fun!
 
 11. **Data visualisation**:
 
-..* Please find a list of tumour sample IDs below. Go to [Genomic Data Commons Data Portal](https://portal.gdc.cancer.gov) and download mutation annotation format (.maf) files for these samples. Extract the mutations in *TP53* and plot the location in protein, the amino acid change and mutation type (for example, in a lollipop plot). Is there a hot-spot mutation? Repeat the same exercise for *IDH1* mutation.
+:black_square_button: Please find a list of tumour sample IDs below. Go to [Genomic Data Commons Data Portal](https://portal.gdc.cancer.gov) and download mutation annotation format (.maf) files for the samples listed in sample.unique.csv file. Extract the mutations in *TP53* and plot the location in protein, the amino acid change and mutation type (for example, in a lollipop plot). Is there a hot-spot mutation? Repeat the same exercise for *IDH1* mutation.
 
+:black_square_button: Unbalanced translocation and subsequent deletion of chromosomes 1p and 19q in oligodendroglioma are an early event and diagnostic of the disease. Could you visualise that event in a plot (for example a circos plot). Feel free to generate your own example data assuming a perfect 1p:19q fusion from the centromeres.
 
 
 
