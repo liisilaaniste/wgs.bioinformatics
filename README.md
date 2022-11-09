@@ -1,7 +1,7 @@
 ![alt text](https://github.com/liisilaaniste/wgs.bioinformatics/blob/main/Cosyne%20logo%20transparent%20background.png)
 # 
 
-This page is intended for candidates interviewing for the Bioinformatician role at CoSyne Therapeutics. The exerise reflects some of the main tasks this role would be undertaking, namely whole genome sequencing analysis, genomics analysis tool selection, pipeline builiding, as well as data visualisation and communication.
+This page is intended for candidates interviewing for the Bioinformatician role at CoSyne Therapeutics. The exercise reflects some of the main tasks this role would be undertaking, namely whole genome sequencing analysis, genomics analysis tool selection, pipeline builiding, as well as data visualisation and communication.
 
 There are multiple ways to answer these questions, therefore feel free to showcase your creativity both in pseudocode as well as data visualisaiton tasks. Please reach out with any questions you may have on this or if you encounter any problems. 
 
